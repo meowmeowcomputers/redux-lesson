@@ -1,0 +1,24 @@
+{
+  "name": "redux-lesson",
+  "version": "1.0.0",
+  "description": "Redux lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meowmeowcomputers/redux-lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meowmeowcomputers/redux-lesson/issues"
+  },
+  "homepage": "https://github.com/meowmeowcomputers/redux-lesson#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1"
+  }
+}
